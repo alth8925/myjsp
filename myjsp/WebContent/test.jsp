@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-test
+
+<%out.println("hello"); %>
 </body>
 </html>
